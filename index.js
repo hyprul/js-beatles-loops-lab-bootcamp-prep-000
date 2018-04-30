@@ -1,5 +1,11 @@
 function theBeatlesPlay(musicians, instruments){
+  var iter =[]
   
+  for(let i =0; i < musicians.length; i++){
+    iter.push(musicians[i] + "plays" + instruments[i])
+  }
+  
+  return iter
 }
 
 function johnLennonFacts(facts){
