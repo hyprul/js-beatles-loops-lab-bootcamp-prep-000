@@ -9,7 +9,15 @@ function theBeatlesPlay(musicians, instruments){
 }
 
 function johnLennonFacts(facts){
+  var loop =0
+  var iter =[]
   
+  while(loop < facts.lenth){
+    iter.push(facts[loop])
+    loop++
+  }
+  
+  return iter
 }
 
 function iLoveTheBeatles(n){
