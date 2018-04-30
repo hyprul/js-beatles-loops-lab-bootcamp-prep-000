@@ -12,7 +12,7 @@ function johnLennonFacts(facts){
   var loop =0
   var iter =[]
   
-  while(loop < facts.lenth){
+  while(loop < facts.length){
     iter.push(facts[loop] +"!!!")
     loop++
   }
