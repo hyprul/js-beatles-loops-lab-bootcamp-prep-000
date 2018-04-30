@@ -1,11 +1,11 @@
-function theBeatlesPlay(){
+function theBeatlesPlay(musicians, instruments){
   
 }
 
-function johnLennonFacts(){
+function johnLennonFacts(facts){
   
 }
 
-function iLoveTheBeatles(){
+function iLoveTheBeatles(n){
   
 }
